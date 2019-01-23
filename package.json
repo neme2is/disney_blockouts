@@ -10,11 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.0",
-    "cookie": "^0.3.1",
-    "form-data": "^2.3.3",
+    "dotenv": "^6.2.0",
+    "googleapis": "27",
     "lodash": "^4.17.11",
-    "request": "^2.88.0",
-    "set-cookie-parser": "^2.2.1",
-    "tough-cookie": "^3.0.0"
+    "request": "^2.88.0"
   }
 }
