@@ -1,0 +1,20 @@
+{
+  "name": "personal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cookie": "^0.3.1",
+    "form-data": "^2.3.3",
+    "lodash": "^4.17.11",
+    "request": "^2.88.0",
+    "set-cookie-parser": "^2.2.1",
+    "tough-cookie": "^3.0.0"
+  }
+}
